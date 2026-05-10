@@ -10,4 +10,7 @@ public class Student {
     private void printHello(){
         System.out.println("Hello!");
     }
+    public Student(){
+        this(100, "John");
+    }
 }
