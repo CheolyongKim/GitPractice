@@ -1,3 +1,4 @@
 public class Student {
-    // initial commit
+    private int id;
+    private String name;
 }
